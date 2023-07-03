@@ -1,9 +1,8 @@
 ### OLÁ! EU SOU A ANDRESSA 👋
 
 - 🔭 No momento estou apenas estudando.
-- 🌱 Iniciante aprendendo python.
-- 🤔 Espero econtrar a ajuda que preciso com a comunidade.
-- 💬 Entre em contato comigo: silva.13579.2468@gmail.com
+- 🌱 Iniciante aprendendo JavaScript.
+
 - ⚡ Futura programadora.
 -->
 <div>
