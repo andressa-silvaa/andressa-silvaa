@@ -1,8 +1,7 @@
 ### OLÁ! EU SOU A ANDRESSA 👋
 
 - 🔭 No momento estou apenas estudando <img align="right" alt="Andressa" height="150em" width="150em" src="https://media.discordapp.net/attachments/805220480566165514/1143905030819295332/2fc4a8b8-fefc-488e-8451-d74ea820b6ea.jpg?width=441&height=441" />
-- 🌱 Iniciante aprendendo Back-End
-- 🦋 Aluna na cubos Academy
+- 🌱 Iniciante aprendendo desenvolvimento web
 - ☕ Um pouco obcecada por java
 - 🐼 Adoro buscar entender como as coisas funcionam
 - ⚡ Futura dev
